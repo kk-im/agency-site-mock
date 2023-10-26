@@ -23,7 +23,7 @@ export default function About() {
             );
           })}
         </ul>
-        <Button>
+        <Button styles="">
           <div className="flex gap-3 items-center text-sm">
             Read more
             <ArrowRightCircle size={18} />

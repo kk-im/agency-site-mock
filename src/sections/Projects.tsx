@@ -19,7 +19,7 @@ export default function About() {
             A storefront with a crunch. An intuitive e-commerce store for fruit
             lovers to customize their fruit basket.
           </p>
-          <Button>
+          <Button styles={""}>
             <div className="flex gap-3 items-center text-sm">
               <span>View</span>
               <ArrowRightCircle size={18} />

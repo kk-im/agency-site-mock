@@ -2,7 +2,7 @@
 
 type ButtonType = "button" | "submit" | undefined;
 interface Props {
-  children: string;
+  children: React.ReactNode;
   handleClick?: () => void;
   styles: string;
   type?: ButtonType;

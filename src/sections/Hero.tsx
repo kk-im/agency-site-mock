@@ -12,11 +12,11 @@ export default function Hero() {
             brands. we build brands, create digital homes and tell unforgettable
             stories.
           </h2>
-          <Button>
-            <div className="flex gap-3 items-center">
+          <Button styles="">
+            <h4 className="flex gap-3 items-center">
               explore work
               <ArrowRightCircle size={18} />
-            </div>
+            </h4>
           </Button>
         </div>
       </div>

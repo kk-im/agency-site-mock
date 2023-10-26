@@ -15,7 +15,7 @@ export default function About() {
           </p>
         </div>
         <div className="col-span-2 text-end ">
-          <Button>
+          <Button styles="">
             <div className="flex gap-3 items-center text-sm">
               more
               <ArrowRightCircle size={18} />

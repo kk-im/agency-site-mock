@@ -13,7 +13,7 @@ export default function Company() {
               more could you ask for?
             </p>
             <Button styles="bg-stone-200 text-black col-start-6 h-10 text-sm flex justify-center col-end-8">
-              <p>View open positions</p>
+              View open positions
             </Button>
           </div>
         </div>
